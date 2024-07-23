@@ -1,0 +1,2 @@
+The main concept behind selection sort is to create a new array and find the smallest (larger) 
+item through the given array and add (append) it to the newly created array. 
