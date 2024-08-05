@@ -1,0 +1,3 @@
+* Recursion is when a function calls itself
+* Every recursion function has two cases: the base case  and the recursive case
+* The computer allocates memory on the stack for each function call
