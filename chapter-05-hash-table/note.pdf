@@ -1,0 +1,9 @@
+* Hash function is a function where you put in a string and get back a number
+* Hash function maps strings with numbers
+* The hash function tells you exactly where the price is stored
+* The array used for storing the data + The hash function = A data structure called Hash_table
+
+* The hash function can be used for the first time to find where to store the corresponding value (number) of a 
+  string, and then you can use it to find where you stored that value(number).
+
+* Hash Table = Hash Map = Pyhton Dictionary = JS Object 
